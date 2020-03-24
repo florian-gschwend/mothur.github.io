@@ -9,7 +9,7 @@ calculator can be used in the
 [summary.shared](/wiki/summary.shared) and
 [collect.shared](/wiki/collect.shared) commands.
 
-$$D_{Jaccard}=\frac{S_{AB}}{S_A+S_B-S_{AB}}$$
+$$D_{Jaccard}=1-\frac{S_{AB}}{S_A+S_B-S_{AB}}$$
 
 where,
 
